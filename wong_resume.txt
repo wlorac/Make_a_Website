@@ -1,0 +1,14 @@
+Carol Wong
+Courses        :         Introduction to Software Development,      Mathematical Foundations of Computer Science
+
+
+
+Projects
+
+
+                  PwC - Owned product development from conception to MVP launch, of B2B SaaS middleware that connects corporate procurement systems to the central bank’s trade finance platform
+        PwC - Led 10-week development ceremony employing Agile methodology to roll out a scalable prototype release with 5 well-scoped features; groomed backlog, facilitated sprint planning (using Jira), daily standups, iteration reviews, and retrospectives
+           EY - Created baseline IT strategy for a leading retail bank, with a three-year roadmap and its quarterly iterations
+
+------------------------------
+                   cliw@seas.upenn.edu
